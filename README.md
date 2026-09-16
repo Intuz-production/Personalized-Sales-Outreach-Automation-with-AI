@@ -12,7 +12,7 @@
 
 # Automate cold outreach with email personalization using Gemini and Google Sheets
 
-This n8n template from [Intuz](https://www.intuz.com/) provides a complete and automated solution for powerful cold outreach campaigns.
+This n8n template from Intuz provides a complete and automated solution for powerful cold outreach campaigns.
 
 It connects a Google Sheet of prospect data with Google Gemini to automatically generate highly personalized emails. By analyzing specific keywords and data points like company name, industry, or job title from your sheet, this automated workflow crafts unique, relevant messages that feel one-to-one, creating a complete system to dramatically improve your engagement and response rates.
 
