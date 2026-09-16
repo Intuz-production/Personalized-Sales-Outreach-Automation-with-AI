@@ -1,4 +1,4 @@
-# Intuz — Your automation partner, one workflow at a time.
+*Intuz — Your automation partner, one workflow at a time.*
 
 <p align="center">
   <picture>
@@ -6,13 +6,11 @@
   </picture>
 </p>
 
-# Automate cold outreach with email personalization using Gemini and Google Sheets
-
-Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
+[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
 [N8N Creator](https://n8n.io/creators/intuz/) · [AI Consulting](https://www.intuz.com/ai-transformation-services/) · [AI Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
----
+# Automate cold outreach with email personalization using Gemini and Google Sheets
 
 This n8n template from [Intuz](https://www.intuz.com/) provides a complete and automated solution for powerful cold outreach campaigns.
 
@@ -63,10 +61,34 @@ To use this workflow template, you will need:
 2. **Google Gemini Account:** For generating the email content (requires a Google Gemini API Key from Google AI Studio).
 3. **Google Sheets Account:** With a prepared spreadsheet containing your lead list and columns for the generated output.
 
+## FAQ
+
+**Is this template free to use?**
+Yes. It's an open-source n8n workflow published by Intuz — copy the workflow JSON from this repo and import it into your own n8n instance at no cost.
+
+**Do I need a paid n8n plan to run this?**
+No. It runs on n8n's free self-hosted Community Edition or on n8n Cloud. You'll need your own credentials for the services this workflow connects to, not a specific n8n pricing tier.
+
+**Does it send the emails, or just draft them?**
+It drafts them. The workflow writes a personalized subject and body back into your Google Sheet for your team to review and send — it does not send the emails itself.
+
+## Related n8n templates from Intuz
+
+- [Hyper-personalize email outreach with AI, Gmail, and Google Sheets](https://github.com/Intuz-production/Cold-Email-Personalization-Automation)
+- [Automate AI Upwork proposal generation with Apify, Google Gemini & Sheets](https://github.com/Intuz-production/Upwork-proposal-generation-automation)
+- [Automate LinkedIn post creation with image using Google Gemini & DALL-E](https://github.com/Intuz-production/AI-Powered-LinkedIn-Post-Image-Generator)
+
+See all of Intuz's free n8n templates: https://www.intuz.com/n8n-workflow-automation-templates/
+
 ## Connect with us
 
-- **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
-- **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-- **LinkedIn:** https://www.linkedin.com/company/intuz/
-- **Get Started:** https://n8n.partnerlinks.io/intuz
-- **For Custom Workflow Automation:** https://www.intuz.com/get-started/
+Intuz is a USA-based AI & workflow automation company with 16+ years of experience building custom AI-enabled workflow automations for SMBs and Enterprises, specializing in agentic AI, LLM integrations, and CRM/ERP sync across Healthcare, FinTech, eCommerce, Manufacturing, and Real Estate. Explore 30+ free templates at intuz.com/n8n-workflow-automation-templates or get a custom workflow built at intuz.com/get-started.
+
+* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
+* **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
+* **LinkedIn:** https://www.linkedin.com/company/intuz/
+* **Get Started:** https://n8n.partnerlinks.io/intuz
+
+## For Custom Workflow Automation
+
+[Click here - Get Started](https://www.intuz.com/get-started/)
